@@ -1,8 +1,7 @@
-package FilmDemo.LyssnareAdapterklasser;
+package FilmDemo.SwingIntro.LyssnareAdapterDemo;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 

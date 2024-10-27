@@ -1,10 +1,9 @@
-package FilmDemo.SwingKomponenter2;
+package FilmDemo.SwingIntro.SwingKompnenter;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 

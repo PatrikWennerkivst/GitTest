@@ -1,4 +1,4 @@
-package FilmDemo.SwingKomponenter2;
+package FilmDemo.SwingIntro.SwingKompnenter;
 
 import javax.swing.*;
 import java.awt.*;

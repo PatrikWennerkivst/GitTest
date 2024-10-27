@@ -1,4 +1,4 @@
-package FilmDemo.Eventdemo;
+package FilmDemo.SwingIntro.EventDemo;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

@@ -1,4 +1,4 @@
-package FilmDemo.LyssnareAdapterklasser;
+package FilmDemo.SwingIntro.LyssnareAdapterDemo;
 
 import javax.swing.*;
 
