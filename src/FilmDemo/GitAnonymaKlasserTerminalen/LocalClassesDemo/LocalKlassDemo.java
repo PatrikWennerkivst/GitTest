@@ -15,9 +15,10 @@ public class LocalKlassDemo extends JFrame{
     JButton jb = new JButton("Tryck här");
 
 
-    //Här skapar jag upp en innrekalss
+
     public LocalKlassDemo(){
 
+        //Här skapar jag en lokal klass som skapar upp en instans av en actionlistener
         class InnerClass implements ActionListener {
 
             @Override
