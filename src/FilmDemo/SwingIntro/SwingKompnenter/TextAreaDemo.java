@@ -34,7 +34,7 @@ public class TextAreaDemo extends JFrame implements ActionListener {
         doubleButton.addActionListener(this);
         clearButton.addActionListener(this);
 
-        area.read(new FileReader("src/FilmDemo/SwingKomponenter2/text.txt"), null);
+        area.read(new FileReader("src/FilmDemo/SwingIntro/SwingKompnenter/text.txt"), null);
 
         pack();
         setVisible(true);
